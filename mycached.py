@@ -12,9 +12,9 @@ class MyCachedCommand(sublime_plugin.TextCommand):
                 if index > -1:
                     if action == "copy" or action == "cast":
                         sublime.set_clipboard(key_values[menu_items[index]])
-                    elif action == "paste" or action == "cast": 
+                    if action == "paste" or action == "cast": 
                         sublime.active_window().run_command('my_cached_paste', {'value':key_values[menu_items[index]]})
-                    elif action == "edit": 
+                    if action == "edit": 
                         self.on_add_key(menu_items[index]);
             self.view.window().show_quick_panel(menu_items, on_select)
     def on_add_key(self, key):
