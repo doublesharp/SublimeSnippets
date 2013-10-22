@@ -1,0 +1,7 @@
+[  
+    {  "keys": ["super+shift+c"], "command": "my_cached", "args": { "action": "copy" } },
+    {  "keys": ["super+shift+a"], "command": "my_cached", "args": { "action": "add" } },
+    {  "keys": ["super+shift+e"], "command": "my_cached", "args": { "action": "edit" } },
+    {  "keys": ["super+shift+v"], "command": "my_cached", "args": { "action": "paste" } },
+    {  "keys": ["super+shift+x"], "command": "my_cached", "args": { "action": "cast" } }
+]  
