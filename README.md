@@ -12,3 +12,7 @@ Commands can be excecuted either via the Command Palette (⌘+⇧+P) or the foll
 * **⌘+⇧+C** - Copy the value to your clipboard
 * **⌘+⇧+V** - Paste the value to the current position in the active Sublime Text document
 * **⌘+⇧+X** - Copy and Paste the value
+
+
+========
+*Please note that all values are stored in plaintext on your filesystem. Your data will be visible to anyone with read access to this file.*
