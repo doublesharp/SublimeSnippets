@@ -1,4 +1,4 @@
-mycached
+SublimeSnippets
 ========
 Key/Value store for Sublime Text - Use Sublime Text to easily store and retrieve frequently used key/value pairs. 
 If you find your self regularly cutting and pasting from emails and old chat sessions to retrieve URLs, IP addresses, 
