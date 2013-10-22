@@ -1,7 +1,7 @@
 [
-  { "command": "my_cached", "caption": "MyCached: Add", "args": { "action": "add" } },
-  { "command": "my_cached", "caption": "MyCached: Edit", "args": { "action": "edit" } },
-  { "command": "my_cached", "caption": "MyCached: Cast", "args": { "action": "cast" } },
-  { "command": "my_cached", "caption": "MyCached: Copy", "args": { "action": "copy" } },
-  { "command": "my_cached", "caption": "MyCached: Paste", "args": { "action": "paste" } }
+  { "command": "mycached", "caption": "Mycached: Add", "args": { "action": "add" } },
+  { "command": "mycached", "caption": "Mycached: Edit", "args": { "action": "edit" } },
+  { "command": "mycached", "caption": "Mycached: Cast", "args": { "action": "cast" } },
+  { "command": "mycached", "caption": "Mycached: Copy", "args": { "action": "copy" } },
+  { "command": "mycached", "caption": "Mycached: Paste", "args": { "action": "paste" } }
 ]
