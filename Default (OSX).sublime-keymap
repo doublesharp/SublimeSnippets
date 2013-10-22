@@ -1,7 +1,7 @@
 [  
-    {  "keys": ["super+shift+c"], "command": "mycached", "args": { "action": "copy" } },
-    {  "keys": ["super+shift+a"], "command": "mycached", "args": { "action": "add" } },
-    {  "keys": ["super+shift+e"], "command": "mycached", "args": { "action": "edit" } },
-    {  "keys": ["super+shift+v"], "command": "mycached", "args": { "action": "paste" } },
-    {  "keys": ["super+shift+x"], "command": "mycached", "args": { "action": "cast" } }
+    {  "keys": ["super+shift+c"], "command": "snippets", "args": { "action": "copy" } },
+    {  "keys": ["super+shift+a"], "command": "snippets", "args": { "action": "add" } },
+    {  "keys": ["super+shift+e"], "command": "snippets", "args": { "action": "edit" } },
+    {  "keys": ["super+shift+v"], "command": "snippets", "args": { "action": "paste" } },
+    {  "keys": ["super+shift+x"], "command": "snippets", "args": { "action": "cast" } }
 ]  
